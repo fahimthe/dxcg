@@ -1,0 +1,505 @@
+@media (min-width: 320px) and (max-width: 479.98px){
+  
+/* header  head*/
+#header .header {
+	 display: none;
+}
+
+/* navbar */
+.nav_middle{
+    display: none;
+}
+#header .nav .navbar_item .nav_right {
+	display: block;
+}
+.navbar_icons{
+	display: none;
+}
+
+/* banner part start */
+#banner .banner .banner_text .banner_text_item h1 {
+	font-size: 40px;
+}
+
+/* about part  */
+.about_right{
+   margin-top: 40px;
+}
+/* service part */
+#service .service_2 .service_item {
+	margin-top: 185px;
+}
+.pro_signature img{
+	width: 100%;
+}
+#about .about .about_right .about_profile .pro_text {
+	padding-right: 0px;
+}
+
+/* skill part  */
+#skill .skill .progress {
+	margin: 0 auto;
+}
+
+#skill .skill .progress:last-of-type .right, #skill .skill .progress:first-of-type .right {
+	-webkit-animation: load3 .8s linear forwards 1s;
+	animation: load3 .8s linear forwards 1s;
+}
+.skill_right{
+	margin-top: 30px;
+}
+
+#gallery .gallery .gallery_img {
+	margin: 10px 0;
+}
+
+#gallery .gallery .gallery_img .galler_overly .gallery_text h4 {
+	font-size: 20px;
+}
+/* know part */
+#know .know .know_right .know_text {
+	padding: 0 10px;
+}
+
+#know .know .know_right .know_text .know_box {
+	display: list-item;
+}
+
+#know .know .know_right .know_text .know_box .boxs {
+	margin: 15px 70px;
+}
+
+/* testimonial part */
+#testimonial .testimonial .tetsimonial_text h5 {
+	font-size: 36px;
+	padding-bottom: 30px;
+}
+#testimonial .testimonial .tetsimonial_card .testimonial_card_inner {
+	margin-top: 35px;
+}
+#testimonial .testimonial .tetsimonial_card .testimonial_card_inner {
+
+	padding: 60px 25px;
+}
+/* form part */
+#contact .contact .conatct_left .contact_form {
+	width:100%;
+}
+.form_right img{
+	width: 100%;
+}
+
+/* blog part */
+
+.blog_item{
+   margin-top: 20px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
+
+@media (min-width: 480px) and (max-width: 575.98px){
+  
+	/* header  head*/
+	#header .header {
+		 display: none;
+	}
+	
+	/* navbar */
+	.nav_middle{
+		display: none;
+	}
+	#header .nav .navbar_item .nav_right {
+		display: block;
+	}
+	.navbar_icons{
+		display: none;
+	}
+	
+	/* banner part start */
+	#banner .banner .banner_text .banner_text_item h1 {
+		font-size: 40px;
+	}
+	
+	/* about part  */
+	.about_right{
+	   margin-top: 40px;
+	}
+	/* service part */
+	#service .service_2 .service_item {
+		margin-top: 185px;
+	}
+	.pro_signature img{
+		width: 100%;
+	}
+	#about .about .about_right .about_profile .pro_text {
+		padding-right: 0px;
+	}
+	
+	/* skill part  */
+	#skill .skill .progress {
+		margin: 0 auto;
+	}
+	
+	#skill .skill .progress:last-of-type .right, #skill .skill .progress:first-of-type .right {
+		-webkit-animation: load3 .8s linear forwards 1s;
+		animation: load3 .8s linear forwards 1s;
+	}
+	.skill_right{
+		margin-top: 30px;
+	}
+	
+	#gallery .gallery .gallery_img {
+		margin: 10px 0;
+	}
+	
+	#gallery .gallery .gallery_img .galler_overly .gallery_text h4 {
+		font-size: 20px;
+	}
+	/* know part */
+	#know .know .know_right .know_text {
+		padding: 0 10px;
+	}
+	
+	#know .know .know_right .know_text .know_box {
+		display: list-item;
+	}
+	
+	#know .know .know_right .know_text .know_box .boxs {
+		margin: 15px 140px;
+	}
+	
+	/* testimonial part */
+	#testimonial .testimonial .tetsimonial_text h5 {
+		font-size: 36px;
+		padding-bottom: 30px;
+	}
+	#testimonial .testimonial .tetsimonial_card .testimonial_card_inner {
+		margin-top: 35px;
+	}
+	#testimonial .testimonial .tetsimonial_card .testimonial_card_inner {
+	
+		padding: 60px 25px;
+	}
+	/* form part */
+	#contact .contact .conatct_left .contact_form {
+		width:100%;
+	}
+	.form_right img{
+		width: 100%;
+	}
+	
+	/* blog part */
+	
+	.blog_item{
+	   margin-top: 20px;
+	}
+		
+
+	
+	}
+@media (min-width: 576px) and (max-width: 767.98px){
+  
+		/* header  head*/
+		#header .header {
+			 display: none;
+		}
+		
+		/* navbar */
+		.navbar_modal {
+			padding: 20px 0;
+		}
+		
+		.nav_middle{
+			display: none;
+		}
+		#header .nav .navbar_item .nav_right {
+			display: block;
+		}
+		.navbar_icons{
+			display: none;
+		}
+		/* banner part start */
+		#banner .banner .banner_text .banner_text_item h1 {
+			font-size: 40px;
+		}
+		
+		/* about part  */
+		.about_right{
+		   margin-top: 40px;
+		}
+		/* service part */
+		#service .service_2 .service_item {
+			margin-top: 185px;
+		}
+		.pro_signature img{
+			width: 100%;
+		}
+		#about .about .about_right .about_profile .pro_text {
+			padding-right: 0px;
+		}
+		
+		/* skill part  */
+		#skill .skill .progress {
+			margin: 0 auto;
+		}
+		
+		#skill .skill .progress:last-of-type .right, #skill .skill .progress:first-of-type .right {
+			-webkit-animation: load3 .8s linear forwards 1s;
+			animation: load3 .8s linear forwards 1s;
+		}
+		.skill_right{
+			margin-top: 30px;
+		}
+		
+		#gallery .gallery .gallery_img {
+			margin: 10px 0;
+		}
+		
+		#gallery .gallery .gallery_img .galler_overly .gallery_text h4 {
+			font-size: 20px;
+		}
+		/* know part */
+		#know .know .know_right .know_text {
+			padding: 0 10px;
+		}
+		
+		#know .know .know_right .know_text .know_box .boxs {
+			width: 200px;
+			height: 190px;
+			padding: 25px;
+		}
+		#know .know .know_right .know_text .know_box .boxs h6 {
+			font-size: 14px;
+			color: #fff;
+			font-weight: 500;
+			padding: 10px 30px;
+		}
+		
+		/* testimonial part */
+		#testimonial .testimonial .tetsimonial_text h5 {
+			font-size: 36px;
+			padding-bottom: 30px;
+		}
+		#testimonial .testimonial .tetsimonial_card .testimonial_card_inner {
+			margin-top: 35px;
+		}
+		#testimonial .testimonial .tetsimonial_card .testimonial_card_inner {
+		
+			padding: 60px 25px;
+		}
+		/* form part */
+		#contact .contact .conatct_left .contact_form {
+			width:100%;
+		}
+		.form_right img{
+			width: 100%;
+		}
+		
+		/* blog part */
+		
+		.blog_item{
+		   margin-top: 20px;
+		}
+			
+	
+		
+		}
+
+@media (min-width: 768px) and (max-width: 991.98px){
+  
+			/* header  head*/
+			#header .header {
+				 display: none;
+			}
+			
+			/* navbar */
+			.navbar_modal {
+				padding: 20px 0;
+			}
+			
+			.nav_middle{
+				display: none;
+			}
+			#header .nav .navbar_item .nav_right {
+				display: block;
+			}
+			.navbar_icons{
+				display: none;
+			}
+			/* banner part start */
+			#banner .banner .banner_text .banner_text_item h1 {
+				font-size: 80px;
+			}
+			
+			/* about part  */
+			.about_right{
+			   margin-top: 40px;
+			}
+			/* service part */
+			#service .service_2 .service_item {
+				margin-top: 185px;
+			}
+			.pro_signature img{
+				width: 100%;
+			}
+			#about .about .about_right .about_profile .pro_text {
+				padding-right: 0px;
+			}
+			#service .service_2 .service_item .service_box .box_item {
+				padding: 63px 30px 35px 30px;
+			}
+			/* skill part  */
+			#skill .skill .progress {
+				margin: 0 auto;
+			}
+			
+			#skill .skill .progress:last-of-type .right, #skill .skill .progress:first-of-type .right {
+				-webkit-animation: load3 .8s linear forwards 1s;
+				animation: load3 .8s linear forwards 1s;
+			}
+			.skill_right{
+				margin-top: 30px;
+			}
+			
+			#gallery .gallery .gallery_img {
+				margin: 10px 0;
+			}
+			
+			#gallery .gallery .gallery_img .galler_overly .gallery_text h4 {
+				font-size: 20px;
+			}
+			/* know part */
+			#know .know .know_right .know_text {
+				padding: 0 10px;
+			}
+			
+			#know .know .know_right .know_text .know_box .boxs {
+				width: 200px;
+				height: 190px;
+				padding: 25px;
+			}
+			#know .know .know_right .know_text .know_box .boxs h6 {
+				font-size: 14px;
+				color: #fff;
+				font-weight: 500;
+				padding: 10px 30px;
+			}
+			.know_img{
+				display: none;
+			}
+			/* testimonial part */
+			#testimonial .testimonial .tetsimonial_text h5 {
+				font-size: 36px;
+				padding-bottom: 30px;
+			}
+			#testimonial .testimonial .tetsimonial_card .testimonial_card_inner {
+				margin-top: 35px;
+			}
+			#testimonial .testimonial .tetsimonial_card .testimonial_card_inner {
+			
+				padding: 60px 25px;
+			}
+			/* form part */
+			#contact .contact .conatct_left .contact_form {
+				width:100%;
+			}
+			.form_right img{
+				width: 100%;
+			}
+			
+			/* blog part */
+			
+			.blog_item{
+			   margin-top: 20px;
+			}
+			#blog .blog .blog_main .blog_item .blog_text h4 {
+				font-size: 18px;
+			}
+			
+			
+			}
+
+@media (min-width: 992px) and (max-width: 1399.98){
+
+
+	#know .know .know_right .know_text .know_box {
+		display: none !important;
+	}
+
+}
